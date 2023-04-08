@@ -12,3 +12,5 @@ subract.addEventListener("click", () => {
   counter--;
   number.textContent = counter;
 });
+
+
